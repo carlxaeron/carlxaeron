@@ -4,13 +4,12 @@
 
 I’m a passionate **Software Engineer**, **Web/App Developer**, and **Fullstack Developer** with expertise in a wide range of technologies. I thrive on building innovative, scalable, and secure web solutions. Here's a bit more about me:
 
-## 🚀 About Me
-
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=About+Me%3A)](https://carlxaeron.github.io)
 I have 12 years (and counting) of experience as a full-stack web developer, building robust and responsive web applications and websites. My journey began in 2012, and since then, I've been experimenting with various technologies to create secure, fault-tolerant, user-centric, and scalable solutions.
 
 ## 🔧 Technologies & Tools
 
-### Front-End Development:
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Frontend%20Development%3A)](https://carlxaeron.github.io)
 ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -24,7 +23,7 @@ I have 12 years (and counting) of experience as a full-stack web developer, buil
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=SASS)
 ![Stylus](https://img.shields.io/badge/-Stylus-000?&logo=Stylus)
 
-### Back-End Development:
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Backend%20Development%3A)](https://carlxaeron.github.io)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000?&logo=CodeIgniter)
@@ -32,24 +31,24 @@ I have 12 years (and counting) of experience as a full-stack web developer, buil
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 
-### CMS:
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=CMS%3A)](https://carlxaeron.github.io)
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
 ![Joomla](https://img.shields.io/badge/-Joomla-000?&logo=Joomla)
 
-### Mobile Development:
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Mobile%20Development%3A)](https://carlxaeron.github.io)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)
 
-### Version Control:
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Version%20Control%3A)](https://carlxaeron.github.io)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![SVN](https://img.shields.io/badge/-SVN-000?&logo=Subversion)
 
-## 📈 GitHub Stats
+## 📈 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Gihub%20Stats%3A)](https://carlxaeron.github.io)
 
 ![Carl's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlxaeron&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carlxaeron&theme=radical)
 
-## 🏆 Projects
+## 🏆 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Projects)](https://carlxaeron.github.io)
 
 Here are some of the projects I'm most proud of:
 
@@ -57,7 +56,7 @@ Here are some of the projects I'm most proud of:
 - [**Ecoshift E-Commerce**](https://github.com/yourusername/ecoshift-e-commerce): Developed and maintained e-commerce solutions, including custom plugins for WooCommerce.
 - [**Banking AppKey Feature**](https://github.com/yourusername/ecoshift-e-commerce): Spearheaded the AppKey feature of a banking web application.
 
-## 🌱 Currently Learning
+## 🌱 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Currently%20Learning)](https://carlxaeron.github.io)
 
 I'm currently diving deeper into:
 
@@ -67,12 +66,12 @@ I'm currently diving deeper into:
 - Blockchain development
 - Other programming languages like GoLang, Java + SpringBoot
 
-## 📫 How to Reach Me
+## 📫 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=How%20To%20Reach%20Me)](https://carlxaeron.github.io)
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/carl-louis-manuel)](https://www.linkedin.com/in/carl-louis-manuel)
 - [![Email](https://img.shields.io/badge/-Email-D14836?&logo=Gmail&logoColor=white&link=mailto:carllouismanuel09@gmail.com)](mailto:carllouismanuel09@gmail.com)
 
-## 🎉 Fun Fact
+## 🎉 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Fun%20Fact)](https://carlxaeron.github.io)
 
 I’m always on the lookout for new technologies and trends to keep my skills up-to-date. I believe in continuous learning and pushing the boundaries of what’s possible in web/app development.
 
