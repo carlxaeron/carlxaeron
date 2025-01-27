@@ -22,6 +22,7 @@ I have 12 years (and counting) of experience as a full-stack web developer, buil
 ![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=SASS)
 ![Stylus](https://img.shields.io/badge/-Stylus-000?&logo=Stylus)
+![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery)
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Backend%20Development%3A)](https://carlxaeron.github.io)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
