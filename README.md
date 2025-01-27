@@ -46,14 +46,14 @@ I have 12 years (and counting) of experience as a full-stack web developer, buil
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![SVN](https://img.shields.io/badge/-SVN-000?&logo=Subversion)
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Google%20Cloud%20Platform%20(GCP)%3A)](https://carlxaeron.github.io)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=DevOps)](https://carlxaeron.github.io)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 
 ## 📈 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Gihub%20Stats%3A)](https://carlxaeron.github.io)
 
-![Carl's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlxaeron&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carlxaeron)](https://carlxaeron.github.io)
+<!-- <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=carlxaeron&show_icons=true&theme=radical alt=carlxaeron /> </p> -->
+<!-- <p align="center"> <img src=https://github-readme-streak-stats.herokuapp.com?user=carlxaeron alt=carlxaeron /> </p> -->
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=carlxaeron&show_icons=true alt=carlxaeron /> </p>
 
 ## 🏆 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Projects)](https://carlxaeron.github.io)
 
