@@ -31,6 +31,8 @@ I have 12 years (and counting) of experience as a full-stack web developer, buil
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=CMS%3A)](https://carlxaeron.github.io)
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
@@ -43,6 +45,9 @@ I have 12 years (and counting) of experience as a full-stack web developer, buil
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Version%20Control%3A)](https://carlxaeron.github.io)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![SVN](https://img.shields.io/badge/-SVN-000?&logo=Subversion)
+
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Google%20Cloud%20Platform%20(GCP)%3A)](https://carlxaeron.github.io)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 
 ## 📈 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Gihub%20Stats%3A)](https://carlxaeron.github.io)
 
