@@ -1,6 +1,6 @@
 # Hi there, I'm Carl Louis Manuel! 👋
 
-![Profile views](https://gpvc.arturio.dev/carlxaeron)
+![](https://komarev.com/ghpvc/?username=carlxaeron)
 
 I’m a passionate **Software Engineer**, **Web/App Developer**, and **Fullstack Developer** with expertise in a wide range of technologies. I thrive on building innovative, scalable, and secure web solutions. Here's a bit more about me:
 
