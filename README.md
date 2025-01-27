@@ -47,7 +47,7 @@ I have 12 years (and counting) of experience as a full-stack web developer, buil
 
 ![Carl's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlxaeron&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carlxaeron)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carlxaeron)](https://carlxaeron.github.io)
 
 ## 🏆 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Projects)](https://carlxaeron.github.io)
 
