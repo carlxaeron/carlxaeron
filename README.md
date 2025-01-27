@@ -53,9 +53,9 @@ I have 12 years (and counting) of experience as a full-stack web developer, buil
 
 Here are some of the projects I'm most proud of:
 
-- [**GoAutoDial Modernization**](https://github.com/yourusername/goautodial-modernization): Spearheaded the entire modernization of the Agent Web Application using Laravel and ReactJS.
-- [**Ecoshift E-Commerce**](https://github.com/yourusername/ecoshift-e-commerce): Developed and maintained e-commerce solutions, including custom plugins for WooCommerce.
-- [**Banking AppKey Feature**](https://github.com/yourusername/ecoshift-e-commerce): Spearheaded the AppKey feature of a banking web application.
+- [**GoAutoDial Modernization**](https://carlxaeron.github.io/#projects): Spearheaded the entire modernization of the Agent Web Application using Laravel and ReactJS.
+- [**Ecoshift E-Commerce**](https://carlxaeron.github.io/#projects): Developed and maintained e-commerce solutions, including custom plugins for WooCommerce.
+- [**Banking AppKey Feature**](https://carlxaeron.github.io/#projects): Spearheaded the AppKey feature of a banking web application.
 
 ## 🌱 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Currently%20Learning)](https://carlxaeron.github.io)
 
